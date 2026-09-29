@@ -6,3 +6,17 @@ wandb/
 *.pyc
 CLAUDE.md
 .idea/
+.claude/
+
+# FHNW course material (kept locally, not redistributable)
+resources_files/
+trainingscenter_files/
+
+# Scratch files
+tmp.md
+src/tmp.ipynb
+src/Output_report.md
+pytorch-layers.md
+
+# Rendered notebook exports
+src/*.html
